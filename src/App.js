@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React and become Highlfee y paid dev $100000 fsdfj Jai Shri Ram!
         </a>
       </header>
     </div>
